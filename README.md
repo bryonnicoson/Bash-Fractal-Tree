@@ -1,5 +1,7 @@
 # Bash-Fractal-Tree
 
+Solution for Hackerrank challenge at: [https://www.hackerrank.com/challenges/fractal-trees-all/problem](https://www.hackerrank.com/challenges/fractal-trees-all/problem)
+
 ## Sample output:
 ```
 ____________________________________________________________________________________________________
